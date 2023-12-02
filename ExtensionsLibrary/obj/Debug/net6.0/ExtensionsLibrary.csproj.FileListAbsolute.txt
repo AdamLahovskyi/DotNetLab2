@@ -1,0 +1,60 @@
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.deps.json
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.dll
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.pdb
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.AssemblyReference.cache
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfoInputs.cache
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfo.cs
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.CoreCompileInputs.cache
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.dll
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\refint\ExtensionsLibrary.dll
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.pdb
+D:\2 Курс\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ref\ExtensionsLibrary.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.deps.json
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.AssemblyReference.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfo.cs
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\refint\ExtensionsLibrary.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ref\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.deps.json
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\refint\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ref\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.deps.json
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\refint\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab2 final\ExtensionsLibrary\obj\Debug\net6.0\ref\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.deps.json
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\refint\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\ExtensionsLibrary\obj\Debug\net6.0\ref\ExtensionsLibrary.dll

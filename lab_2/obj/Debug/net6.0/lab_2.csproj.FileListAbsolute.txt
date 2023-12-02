@@ -1,0 +1,54 @@
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.exe
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.deps.json
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.runtimeconfig.json
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.dll
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.pdb
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.dll
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.pdb
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.AssemblyReference.cache
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfoInputs.cache
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfo.cs
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CoreCompileInputs.cache
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CopyComplete
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.dll
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\refint\lab_2.dll
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.pdb
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.genruntimeconfig.cache
+D:\2 Курс\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\ref\lab_2.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.exe
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.deps.json
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.runtimeconfig.json
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\lab_2.pdb
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.AssemblyReference.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfoInputs.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfo.cs
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CopyComplete
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\refint\lab_2.dll
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.pdb
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\lab_2.genruntimeconfig.cache
+C:\Users\skysm\OneDrive\Desktop\.NET\lab_2\lab_2\lab_2\obj\Debug\net6.0\ref\lab_2.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\lab_2.exe
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\lab_2.deps.json
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\lab_2.runtimeconfig.json
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\lab_2.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\lab_2.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\refint\lab_2.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\lab_2.genruntimeconfig.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\ref\lab_2.dll

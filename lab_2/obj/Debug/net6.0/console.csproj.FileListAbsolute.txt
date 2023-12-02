@@ -1,0 +1,36 @@
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\console.exe
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\console.deps.json
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\console.runtimeconfig.json
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\console.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\console.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\refint\console.dll
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.pdb
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\console.genruntimeconfig.cache
+C:\Users\Adam Lahovskyi\Desktop\lab_2\lab_2\obj\Debug\net6.0\ref\console.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\console.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\console.deps.json
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\console.runtimeconfig.json
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\console.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\console.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\bin\Debug\net6.0\ExtensionsLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.AssemblyInfoInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.AssemblyInfo.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\refint\console.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\console.genruntimeconfig.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab_2\lab_2\obj\Debug\net6.0\ref\console.dll
